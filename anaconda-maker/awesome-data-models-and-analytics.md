@@ -12,7 +12,7 @@ That is why I ended up making lots of contributions to [Panel](https://panel.hol
 
 [![Fast Grid Template](assets/fast-grid-template-speedup.gif)](https://awesome-panel.org/fast_grid_template)
 
-... making two very popular sites awesome-streamlit.org and awesome-panel.org.
+... making two very popular sites [awesome-streamlit.org](https://awesome-streamlit.org) and [awesome-panel.org](https://awesome-panel.org).
 
 [![awesome-panel.org](assets/awesome-panel-speedup.gif)](https://awesome-panel.org)
 
@@ -22,7 +22,7 @@ That is why I ended up making lots of contributions to [Panel](https://panel.hol
 
 ## How it all began
 
-In 2019 I was transitioning from a project manager role to a role as [lead data scientist developer](https://orsted.com/) at Ørsted. I started learning Python and first step in that journey was figuring out how to productionize data and models using Python.
+In 2019 I was transitioning from a project manager role to a role as [lead data scientist developer](https://orsted.com/) at [Ørsted](https://orsted.com). I started learning Python and first step in that journey was figuring out how to productionize data and models using Python.
 
 I started out creating applications using Django REST API on the backend and Angular in the frontend.
 
@@ -40,7 +40,7 @@ I looked at [Dash](https://plotly.com/dash/), [Streamlit](https://streamlit.io/)
 
 [![awesome-streamlit.org](assets/awesome-streamlit-org.png)](https://awesome-streamlit.org)
 
-But none of these frameworks would support all of my use cases. I ended up looking at [Panel](https://panel.holoviz.org) and settled on that. You can check out my post [*I prefer Panel for my data apps*](https://medium.com/@marcskovmadsen/i-prefer-to-use-panel-for-my-data-apps-here-is-why-1ff5d2b98e8f) for the details.
+But none of these frameworks would support all of my use cases. I ended up looking at [Panel](https://panel.holoviz.org) and settled on that. Panel might not be the best tool for a specific job - but its the best tool for all the jobs. Just like Python 🐍. You can check out my post [*I prefer Panel for my data apps. Here is why.*](https://medium.com/@marcskovmadsen/i-prefer-to-use-panel-for-my-data-apps-here-is-why-1ff5d2b98e8f) for the details.
 
 ## Making it work better
 
@@ -123,7 +123,7 @@ For example I'm especially happy about the `panel serve --autoreload` that speed
 
 ![Jupyter Panel Preview](assets/jupyter-panel-preview.gif)
 
-Today I'm the owner of a Jupyter Hub for Market Trading at Ørsted and part of a team developing data platforms and applications in VS Code and PyCharm. I'm so happy to see that Panel today can support use cases across skill levels and development environments. WE CAN START TO COLLABORATE. This is a long term process. Making the PyData and Jupyter ecosystems as easy and fast to use as Excel takes time.
+Today I'm the owner of a Jupyter Hub for Market Trading at [Ørsted](https://orsted.com) and part of a team developing data platforms and applications in VS Code and PyCharm. I'm so happy to see that Panel today can support use cases across skill levels and development environments. WE CAN START TO COLLABORATE. WE CAN USE THE TOOLS WE KNOW AND LOVE. This is a long term process. Making the PyData and Jupyter ecosystems as easy and fast to use as Excel takes time. But the reward is there as its much, much more powerful.
 
 I would like to thank Maxime Liquet and Simon Høxbro Hansen for making a lot of the not so visible, but needed improvements to the HoloViz ecosystem and Panel in particular.
 
