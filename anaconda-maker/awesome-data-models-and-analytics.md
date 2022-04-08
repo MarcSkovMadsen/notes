@@ -73,10 +73,6 @@ For example the [Trend](https://panel.holoviz.org/reference/indicators/Trend.htm
 
 Please note the left hand side is of course also a streaming Panel app I made 😊
 
-I also contributed the initial version of the [Perspective Viewer](https://panel.holoviz.org/reference/panes/Perspective.html) (interactive pivot table) below.
-
-[![perspective viewer](assets/perspective-viewer-finos.gif)](https://panel.holoviz.org/reference/panes/Perspective.html)
-
 ## Making it look better
 
 One of the things that were holding back Panel was the look and feel. Streamlit has an easy-to-use, great-looking template. Panel needed that as well. So I forced myself into the world of HTML, CSS and Javascript to contribute to the [FastListTemplate](https://panel.holoviz.org/reference/templates/FastListTemplate.html). You can see it in action below.
