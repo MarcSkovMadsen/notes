@@ -126,7 +126,7 @@ Later I contributed the [FastGridTemplate](https://panel.holoviz.org/reference/t
 
 ## Making Friends
 
-Making it alone would not be possible. Sometimes I've only had the vision, but others were the makers and vice versa. And now a lot of them are my friends.
+Making it alone would not be possible. Sometimes I've only had the vision, but others were the makers and vice versa. And now a lot of people in the community are my friends.
 
 For example, I'm especially happy about the [`--autoreload`](https://blog.holoviz.org/panel_0.11.0.html#Autoreload) flag that speeds up your development process when working in a `.py` file and the [*Jupyter Panel Preview*](https://blog.holoviz.org/panel_0.12.0.html#JupyterLab-previews) that does the same when working in a notebook. Philipp Rudiger was the maker; I only had the idea.
 
