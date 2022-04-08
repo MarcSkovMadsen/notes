@@ -47,7 +47,7 @@ You can check out my post [*I prefer Panel for my data apps*](https://medium.com
 
 At the start of 2020 Panel was nothing like it is today. It needed to get feedback and improve.
 
-So the first contributions I made to Panel were Github Issues ([my issues](https://github.com/holoviz/panel/issues?q=is%3Aissue+author%3AMarcSkovMadsen+)). Well prepared Github issues with context and a [minimum reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) is a gift to an open-source project. Luckily Philipp Rudiger and the other project maintainers had the time and energy to improve things.
+So the first contributions I made to Panel were Github Issues ([my issues](https://github.com/holoviz/panel/issues?q=is%3Aissue+author%3AMarcSkovMadsen+)). Well prepared Github issues with context and a [minimum reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) is a gift to an open-source project. Luckily Philipp Rudiger, the lead developer of Panel, and other maintainers had the time and energy to improve things.
 
 One of my first requests ([#831](https://github.com/holoviz/panel/issues/831)) was for a [Discourse site for Panel and the HoloViz ecosystem](https://discourse.holoviz.org/) such that we could start building a community and a community knowledge base. Since then, I've been helping users on discourse make cool tools and data apps. For example, you can check out [Is there any widget equivalent to a carousel?](https://discourse.holoviz.org/t/is-there-any-widget-equivalent-to-a-carousel/3431).
 
@@ -120,7 +120,7 @@ Later I contributed the [FastGridTemplate](https://panel.holoviz.org/reference/t
 
 Making it alone would not be possible. Sometimes I've only had the vision, but others were the makers and vice versa. And now a lot of them are my friends.
 
-For example, I'm especially happy about the `panel serve --autoreload` that speeds up your development process when working in a `.py` file and the *Jupyter Panel Preview* that does the same when working in a notebook. Philipp Rudiger, the lead developer of Panel, was the maker; I only had the idea.
+For example, I'm especially happy about the `panel serve --autoreload` that speeds up your development process when working in a `.py` file and the *Jupyter Panel Preview* that does the same when working in a notebook. Philipp Rudiger was the maker; I only had the idea.
 
 ![Jupyter Panel Preview](assets/jupyter-panel-preview.gif)
 
