@@ -65,6 +65,18 @@ The site also contains an awesome list on steroids for inspiration. Check out th
 
 [![Awesome List](assets/awesome-panel-awesome-list.png)](https://awesome-panel.org/awesome_list)
 
+Along the way I made or contributed to a lot of Panel components.
+
+For example the [Trend](https://panel.holoviz.org/reference/indicators/Trend.html) indicator in the right side below.
+
+[![streaming-indicator.gif](assets/streaming-indicator.gif)](https://panel.holoviz.org/reference/indicators/Trend.html)
+
+Please note the left hand side is of course also a streaming Panel app I made 😊
+
+I also contributed the initial version of the [Perspective Viewer](https://panel.holoviz.org/reference/panes/Perspective.html) (interactive pivot table) below.
+
+[![perspective viewer](assets/perspective-viewer-finos.gif)](https://panel.holoviz.org/reference/panes/Perspective.html)
+
 ## Making it look better
 
 One of the things that were holding back Panel was the look and feel. Streamlit has an easy-to-use, great-looking template. Panel needed that as well. So I forced myself into the world of HTML, CSS and Javascript to contribute to the [FastListTemplate](https://panel.holoviz.org/reference/templates/FastListTemplate.html). You can see it in action below.
@@ -120,7 +132,7 @@ Later I contributed the [FastGridTemplate](https://panel.holoviz.org/reference/t
 
 Making it alone would not be possible. Sometimes I've only had the vision, but others were the makers and vice versa. And now a lot of them are my friends.
 
-For example, I'm especially happy about the `panel serve --autoreload` that speeds up your development process when working in a `.py` file and the *Jupyter Panel Preview* that does the same when working in a notebook. Philipp Rudiger was the maker; I only had the idea.
+For example, I'm especially happy about the [`--autoreload`](https://blog.holoviz.org/panel_0.11.0.html#Autoreload) flag that speeds up your development process when working in a `.py` file and the [*Jupyter Panel Preview*](https://blog.holoviz.org/panel_0.12.0.html#JupyterLab-previews) that does the same when working in a notebook. Philipp Rudiger was the maker; I only had the idea.
 
 ![Jupyter Panel Preview](assets/jupyter-panel-preview.gif)
 
