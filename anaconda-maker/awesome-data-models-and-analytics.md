@@ -39,7 +39,7 @@ I looked at [Dash](https://plotly.com/dash/), [Streamlit](https://streamlit.io/)
 
 [![awesome-streamlit.org](assets/awesome-streamlit-org.png)](https://awesome-streamlit.org)
 
-But none of these frameworks would support all of my use cases. I ended up looking at [Panel](https://panel.holoviz.org) and found that it had the potential to support all my needs.
+But none of these frameworks would support all of our use cases. I ended up looking at [Panel](https://panel.holoviz.org) and found that it had the potential to support all our needs.
 
 You can check out my post [*I prefer Panel for my data apps*](https://medium.com/@marcskovmadsen/i-prefer-to-use-panel-for-my-data-apps-here-is-why-1ff5d2b98e8f) for the details.
 
