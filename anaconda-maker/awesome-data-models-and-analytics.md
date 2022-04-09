@@ -35,7 +35,7 @@ But I soon realized this was not a great solution. The main issues where
 
 To solve these issues, I started looking at pure Python data app frameworks.
 
-I looked at [Dash](https://plotly.com/dash/), [Streamlit](https://streamlit.io/), and [Voila](https://github.com/voila-dashboards/voila). In the process, I made [awesome-streamlit.org](https://awesome-streamlit.org), which has helped a lot of users get started with Streamlit and has +1100 stars on Github.
+I looked at [Bokeh](https://docs.bokeh.org/en/latest/), [Dash](https://plotly.com/dash/), [Streamlit](https://streamlit.io/), and [Voila](https://github.com/voila-dashboards/voila). In the process, I made [awesome-streamlit.org](https://awesome-streamlit.org), which has helped a lot of users get started with Streamlit and has +1100 stars on Github.
 
 [![awesome-streamlit.org](assets/awesome-streamlit-org.png)](https://awesome-streamlit.org)
 
