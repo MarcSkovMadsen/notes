@@ -71,7 +71,7 @@ For example the [Trend](https://panel.holoviz.org/reference/indicators/Trend.htm
 
 [![streaming-indicator.gif](assets/streaming-indicator.gif)](https://panel.holoviz.org/reference/indicators/Trend.html)
 
-Please note the left hand side is of course also a streaming Panel app I made 😊
+Please note the left hand side is of course also a streaming Panel app I made 😊.
 
 ## Making it look better
 
